@@ -1,8 +1,8 @@
-path: ../datasets3/
+path: ../set1/
 
 train: images/train
 val: images/val
 test: images/test
 
 nc: 10
-names: [ '1_chongkong', '2_hanfeng', '3_yueyawan', '4_shuiban', '5_youban', '6_siban', '7_yiwu', '8_yahen', '9_zhehen', '10_yaozhed']
+names: [ '1_Pu', '2_Wl', '3_Cg', '4_Ws', '5_Os', '6_Ss', '7_In', '8_Rp', '9_Cr', '10_Wf']
